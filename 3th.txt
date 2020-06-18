@@ -1,0 +1,33 @@
+﻿﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<title>網際網路期末作業 </title>
+<meta charset="utg-8">
+<body background="106.jpg" text="#FFFFFF">
+<img src="102.jpg" width="1048" height="1510"> 
+
+<h1>熟成東港黑鮪魚  </h1> 
+<h3>東港生產的黑鮪魚(俗稱黑甕串)，屬於洄游性魚類，每年農曆清明節前游到台灣海峽與巴士海峽、菲律賓海域，肉質鮮美，腹部油質多，「入口即化」，早被日本及國內老饕視為生魚片中珍品</h3> 
+   
+
+<a href="2nd.html">嚴選挪威生鮭魚</a>
+<a href="3th.html">熟成東港黑鮪魚</a>
+<a href="4th.html">日本北海道甜蝦</a>
+<a href="5th.html">大粒鮭魚卵軍艦</a>
+<a href="6th.html">心得</a>
+
+
+
+
+<audio controls autoplay loop>
+
+     <source src="001.mp3" type="audio/mp3">
+
+Your browser does not support the audio element.
+</audio>
+
+
+
+</body>
+</head>
+</html>

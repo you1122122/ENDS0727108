@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<title>網際網路期末作業 </title>
+<meta charset="utg-8">
+<body background="106.jpg" text="#FFFFFF">
+<img src="105.jpg" width="2048" height="1365"> 
+
+<h1>心得 </h1> 
+<h3>感謝老師這學期的辛苦教導，讓大家更加明白網站建立的流程<br> </h3> 
+
+<a href="2nd.html">嚴選挪威生鮭魚</a>
+<a href="3th.html">熟成東港黑鮪魚</a>
+<a href="4th.html">日本北海道甜蝦</a>
+<a href="5th.html">大粒鮭魚卵軍艦</a>
+<a href="6th.html">心得</a>
+
+
+
+
+<audio controls autoplay loop>
+
+     <source src="001.mp3" type="audio/mp3">
+
+Your browser does not support the audio element.
+</audio>
+
+
+
+</body>
+</head>
+</html>
